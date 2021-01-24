@@ -16,6 +16,9 @@ How to run:
 
 To run directly from github, Click on the badge below that says "Run on Repl"
 
+
+Or literally just copy and paste the code lol
+
 [![Run on Repl.it](https://repl.it/badge/github/MrBenjaminCounter/Lesson-14)](https://repl.it/github/MrBenjaminCounter/Lesson-14)
 
 
