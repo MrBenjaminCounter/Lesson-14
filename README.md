@@ -7,7 +7,8 @@ How to run:
 2. Make a new repl
 3. Select "Import from Github"
 4. Enter the URL of this Git, [ github.com/MrBenjaminCounter/Lesson-14 ] 
-5. Select language as python and configure the run button to: " python challenge1.py "
+5. Navigate to the .replit file
+6. Select language as "python" and configure the run button to: " python challenge1.py "
 
 
 
